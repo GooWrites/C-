@@ -1,0 +1,7 @@
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCACallsCLMathsPrj.exe.config
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCACallsCLMathsPrj.exe
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCACallsCLMathsPrj.pdb
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCLPrjMaths.dll
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.csprojResolveAssemblyReference.cache
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.exe
+C:\classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.pdb
